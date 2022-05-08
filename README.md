@@ -1,2 +1,2 @@
 # gophercises
-- golang mini projects
+- golang mini projects :)
